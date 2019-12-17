@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: mediumturquoise;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.my-input {
+  padding: 20px 100px;
+  margin: 50px;
+  border-radius: 25px;
+  border: 0px;
+  outline: 0px;
+}
+
+.App-link {
+  color: pink;
+}
+
+.my-title {
+  font-family: "Kaushan Script", cursive;
+  font-size: 72px;
+  color: #0ccac4;
+}
